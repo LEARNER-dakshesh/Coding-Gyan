@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> diStringMatch(string s) {
-        vector<int>ans;
+         vector<int>ans;
         int inc=0,dec=s.size();
         for(int x=0;x<s.size();x++)
         {
@@ -16,7 +16,7 @@ public:
                 dec--;
             }
         }
-        ans.push_back(inc);
-        return ans;
+        ans.push_back(dec);
+        return ans;     
     }
 };
