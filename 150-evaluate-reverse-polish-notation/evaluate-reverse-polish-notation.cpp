@@ -9,8 +9,10 @@ public:
             if(op.find(str) == op.end()) 
                 st.push(stoi(str));
             else{ 
-                 op2 = st.top(), st.pop();
-                 op1 = st.top(), st.pop();
+                 op2 = st.top();
+                  st.pop();
+                 op1 = st.top();
+                  st.pop();
 
                 if (str == "+")  op2 = op1+op2;
                 else if(str == "-") op2 = op1-op2;
