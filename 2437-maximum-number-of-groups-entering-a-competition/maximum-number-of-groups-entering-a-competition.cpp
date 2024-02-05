@@ -1,8 +1,7 @@
 class Solution {
 public:
-
-    int maximumGroups(vector<int>& grades) {
-    sort(grades.begin(),grades.end());
+bool isValid(vector<int>grades,int group)
+{
     int store=0;
     int cnt1=0,cnt2=0,gp=0;
     int sum =0;
@@ -21,6 +20,25 @@ public:
              gp++;
          }
     }
-    return gp;
+    return gp>=group;
+}
+int maximumGroups(vector<int>& grades) {
+    sort(grades.begin(),grades.end());
+    
+    int low =0,high=100000,ans=0;
+    while(low<=high)
+    {
+        int mid=(low+high)/2;
+        if(isValid(grades,mid))
+        {
+            ans=mid;
+            low=mid+1;
+        }
+        else{
+            high=mid-1;
+        }
+    }
+    return ans;
+
     }
 };
