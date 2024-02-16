@@ -12,11 +12,6 @@ public:
         {
             pq.push({x.second,x.first});
         }
-        // while(!pq.empty())
-        // {
-        //     cout<<pq.top().first<<" "<<pq.top().second<<endl;
-        //     pq.pop();
-        // }
         int c=0;
         while(c<k)
         {
