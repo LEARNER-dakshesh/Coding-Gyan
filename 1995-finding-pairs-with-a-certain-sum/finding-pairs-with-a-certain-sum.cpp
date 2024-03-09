@@ -18,10 +18,10 @@ vector<int>arr;
     void add(int index, int val) {
      
         mp2[arr[index]]--;
-        if(mp2[arr[index]]==0)
-        {
-            mp2.erase(arr[index]);
-        }
+        // if(mp2[arr[index]]==0)
+        // {
+        //     mp2.erase(arr[index]);
+        // }
         arr[index]+=val;
 
         mp2[arr[index]]++;
