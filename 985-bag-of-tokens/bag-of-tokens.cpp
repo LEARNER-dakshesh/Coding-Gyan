@@ -12,7 +12,7 @@ public:
             score+=1;
         }
         else{
-            if(score>0 && x<=j-3)
+            if(score>0 && x<=j-2)
             {
             score-=1;
             j=j-1;
