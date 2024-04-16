@@ -6,7 +6,7 @@ public:
                 adj[times[i][0]].push_back({times[i][1],times[i][2]});
         vector<int> dist(n+1,INT_MAX);
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        pq.push({0,k});
+        pq.push({0,k});   // pq mein hum push kar re hai cost , destination 
         dist[k]=0;
         while(!pq.empty())
         {
