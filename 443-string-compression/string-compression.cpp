@@ -15,7 +15,7 @@ public:
                     string times = to_string(tot);
                     ans += ch;
                     ans += to_string(tot);
-                    cout << ch << " " << tot << endl;
+                    // cout << ch << " " << tot << endl;
                 } else {
                     ans += ch;
                 }
@@ -23,7 +23,7 @@ public:
                 tot = 1;
             }
         }
-        cout << ch << " " << tot << endl;
+        // cout << ch << " " << tot << endl;
         if (tot > 1) {
             string times = to_string(tot);
             ans += ch;
@@ -31,7 +31,7 @@ public:
         } else {
             ans += ch;
         }
-        cout << ans;
+        // cout << ans;
        chars.clear();
 
        for(int x=0;x<ans.size();x++)
