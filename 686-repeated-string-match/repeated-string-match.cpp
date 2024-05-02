@@ -10,8 +10,7 @@ public:
         }
         if(w.find(b)!=-1)
         {
-           
-            return cnt;
+             return cnt;
         }
         w+=a;
         if(w.find(b)!=-1)
