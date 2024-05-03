@@ -17,10 +17,6 @@ public:
         sort(p.rbegin(),p.rend());
         double t1=p[0].second;
         int count=1;
-        for(int x=0;x<p.size();x++)
-        {
-            cout<<p[x].first<<" "<<p[x].second<<endl;
-        }
         cout<<endl;
         for(auto it=p.begin()+1;it!=p.end();it++)
         {
