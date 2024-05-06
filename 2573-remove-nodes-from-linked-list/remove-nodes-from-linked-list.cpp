@@ -19,9 +19,9 @@ public:
          }
     ListNode * newnode = removeNodes(head -> next);
     if(newnode->val > head->val) return newnode;
-    
+    else{
     head->next =newnode;
-    
+    }
     return head;
     } 
 };
