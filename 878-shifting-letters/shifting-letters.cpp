@@ -1,8 +1,8 @@
 class Solution {
 public:
     string shiftingLetters(string s, vector<int>& shifts) {
-        // int total=accumulate(shifts.begin(),shifts.end(),0);
-             int n=shifts.size();
+        long long  total=accumulate(shifts.begin(),shifts.end(),0LL);
+            int n=shifts.size();
         reverse(shifts.begin(),shifts.end());
         for(int x=0;x<shifts.size();x++)
         {
