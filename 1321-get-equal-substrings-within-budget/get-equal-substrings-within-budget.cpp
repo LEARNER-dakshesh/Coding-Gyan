@@ -7,7 +7,7 @@ public:
             cost += abs(s[j] - t[j]); 
             while (cost > maxCost) {
                 cost -= abs(s[i] - t[i]);
-                ++i;
+                i++;
             }
             ans=max(ans,j-i+1); 
         }
