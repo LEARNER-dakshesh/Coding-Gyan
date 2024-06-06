@@ -24,6 +24,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0287-find-the-duplicate-number) |
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
+| [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
@@ -41,7 +42,20 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0287-find-the-duplicate-number) |
+| [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0287-find-the-duplicate-number) |
+# Math
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
+# Prefix Sum
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
+# Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
