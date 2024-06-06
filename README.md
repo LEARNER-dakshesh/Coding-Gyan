@@ -5,6 +5,7 @@ All A-Z codes done on LeetCode
 # Two Pointers
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -18,8 +19,17 @@ All A-Z codes done on LeetCode
 # Array
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
+# Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
