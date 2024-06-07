@@ -37,22 +37,6 @@ public:
                 final+=" ";
             }
         }
-            //   int f = 0;
-            //     string w1="";
-            // string word=v[v.size()-1];
-            // for (int x=0;x<word.size();x++) {
-            //     w1 += word[x];
-            //     if (mp.find(w1) != mp.end()) {
-            //         f = 1;
-            //         final += w1;
-            //         final+=" ";
-            //         break;
-            //     }
-            // }
-            // if (f == 0) {
-            //     final += v[v.size()-1];
-            //     final+=" ";
-            // }
 string res="";
 for(int x=0;x<final.size()-1;x++)
 {
