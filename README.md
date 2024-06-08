@@ -27,6 +27,7 @@ All A-Z codes done on LeetCode
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
+| [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
@@ -66,3 +67,11 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
+# Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
+# Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
