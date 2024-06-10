@@ -16,6 +16,7 @@ All A-Z codes done on LeetCode
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Greedy
 |  |
 | ------- |
@@ -30,12 +31,14 @@ All A-Z codes done on LeetCode
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Hash Table
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -81,7 +84,9 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
