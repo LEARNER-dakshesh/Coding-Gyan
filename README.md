@@ -30,6 +30,7 @@ All A-Z codes done on LeetCode
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Hash Table
@@ -37,6 +38,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Dynamic Programming
@@ -83,6 +85,7 @@ All A-Z codes done on LeetCode
 # Sorting
 |  |
 | ------- |
+| [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Heap (Priority Queue)
@@ -90,3 +93,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
