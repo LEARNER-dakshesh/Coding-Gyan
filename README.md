@@ -5,6 +5,7 @@ All A-Z codes done on LeetCode
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0443-string-compression) |
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
@@ -24,6 +25,7 @@ All A-Z codes done on LeetCode
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0287-find-the-duplicate-number) |
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
@@ -85,6 +87,7 @@ All A-Z codes done on LeetCode
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
