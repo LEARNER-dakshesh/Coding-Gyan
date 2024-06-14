@@ -21,6 +21,7 @@ All A-Z codes done on LeetCode
 # Greedy
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -30,6 +31,7 @@ All A-Z codes done on LeetCode
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
@@ -88,6 +90,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
@@ -99,4 +102,5 @@ All A-Z codes done on LeetCode
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
