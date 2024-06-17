@@ -8,6 +8,7 @@ All A-Z codes done on LeetCode
 | [0075-sort-colors](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0633-sum-of-square-numbers) |
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -58,6 +59,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 # Bit Manipulation
 |  |
@@ -67,6 +69,7 @@ All A-Z codes done on LeetCode
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 # Prefix Sum
 |  |
