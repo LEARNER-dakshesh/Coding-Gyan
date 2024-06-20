@@ -11,6 +11,7 @@ All A-Z codes done on LeetCode
 | [0633-sum-of-square-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0633-sum-of-square-numbers) |
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2699-count-the-number-of-fair-pairs) |
 # String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ All A-Z codes done on LeetCode
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2699-count-the-number-of-fair-pairs) |
 # Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ All A-Z codes done on LeetCode
 | [0633-sum-of-square-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2699-count-the-number-of-fair-pairs) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +106,7 @@ All A-Z codes done on LeetCode
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2699-count-the-number-of-fair-pairs) |
 # Heap (Priority Queue)
 |  |
 | ------- |
