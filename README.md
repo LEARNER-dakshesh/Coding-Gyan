@@ -37,6 +37,7 @@ All A-Z codes done on LeetCode
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -48,6 +49,7 @@ All A-Z codes done on LeetCode
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Dynamic Programming
@@ -76,6 +78,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
+| [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -130,3 +133,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
