@@ -25,6 +25,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0797-rabbits-in-forest) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0991-array-of-doubled-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0991-array-of-doubled-pairs) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -36,6 +37,7 @@ All A-Z codes done on LeetCode
 | [0875-longest-mountain-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0875-longest-mountain-in-array) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0991-array-of-doubled-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0991-array-of-doubled-pairs) |
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
@@ -50,6 +52,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0648-replace-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0648-replace-words) |
 | [0797-rabbits-in-forest](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0797-rabbits-in-forest) |
+| [0991-array-of-doubled-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0991-array-of-doubled-pairs) |
 | [1044-find-common-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
@@ -109,6 +112,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0075-sort-colors](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0075-sort-colors) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0991-array-of-doubled-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0991-array-of-doubled-pairs) |
 | [1217-relative-sort-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1217-relative-sort-array) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
