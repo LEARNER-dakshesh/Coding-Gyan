@@ -88,6 +88,7 @@ All A-Z codes done on LeetCode
 | [0797-rabbits-in-forest](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0912-random-pick-with-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 # Prefix Sum
 |  |
 | ------- |
@@ -152,3 +153,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1916-find-center-of-star-graph) |
+# Simulation
+|  |
+| ------- |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
