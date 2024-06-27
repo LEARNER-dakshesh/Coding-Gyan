@@ -148,3 +148,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1916-find-center-of-star-graph) |
