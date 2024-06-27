@@ -26,6 +26,7 @@ All A-Z codes done on LeetCode
 | [0797-rabbits-in-forest](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0797-rabbits-in-forest) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0991-array-of-doubled-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0991-array-of-doubled-pairs) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -44,6 +45,7 @@ All A-Z codes done on LeetCode
 | [1370-count-number-of-nice-subarrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -122,6 +124,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2603-reward-top-k-students) |
 # Counting Sort
