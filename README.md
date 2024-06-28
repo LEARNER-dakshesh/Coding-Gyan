@@ -157,3 +157,10 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0520-detect-capital) |
+<!---LeetCode Topics End-->
