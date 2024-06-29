@@ -163,4 +163,12 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0520-detect-capital) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
