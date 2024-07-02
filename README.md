@@ -167,6 +167,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Dynamic Programming
 |  |
@@ -175,6 +176,7 @@ All A-Z codes done on LeetCode
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Greedy
 |  |
@@ -183,5 +185,14 @@ All A-Z codes done on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
