@@ -1,10 +1,6 @@
 class Solution {
 public:
-/* BruteForce and Max-Heap
-   here brute force chal kyuki k*log(k) wala max-heap use karna hain
-   TC: time<O(m*n*log(k)) 
-   SC: O(2*k)
-*/
+
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         priority_queue<pair<long long,pair<int,int>>> pq;      
         for(int i = 0; i<nums1.size();i++){
