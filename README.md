@@ -166,6 +166,7 @@ All A-Z codes done on LeetCode
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -180,6 +181,7 @@ All A-Z codes done on LeetCode
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Greedy
@@ -227,4 +229,8 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
