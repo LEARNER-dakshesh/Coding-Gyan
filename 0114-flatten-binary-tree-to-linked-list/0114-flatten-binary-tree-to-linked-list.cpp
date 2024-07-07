@@ -12,7 +12,8 @@
 class Solution {
 public:
     void flatten(TreeNode* root) {
-        while(root)
+        
+       while(root)
         {
             if(!root->left)
             {
