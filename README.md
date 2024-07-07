@@ -218,10 +218,12 @@ All A-Z codes done on LeetCode
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
@@ -230,9 +232,18 @@ All A-Z codes done on LeetCode
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
