@@ -168,6 +168,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
+| [0275-h-index-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
@@ -182,6 +183,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
+| [0275-h-index-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Greedy
