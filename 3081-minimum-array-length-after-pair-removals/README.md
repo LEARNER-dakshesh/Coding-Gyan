@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-array-length-after-pair-removals">3081. Minimum Array Length After Pair Removals</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>num</code> sorted in non-decreasing order.</p>
+<h2><a href="https://leetcode.com/problems/minimum-array-length-after-pair-removals">Minimum Array Length After Pair Removals</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>num</code> sorted in non-decreasing order.</p>
 
 <p>You can perform the following operation any number of times:</p>
 
