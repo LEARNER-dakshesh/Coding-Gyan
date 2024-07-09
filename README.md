@@ -228,6 +228,7 @@ All A-Z codes done on LeetCode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,10 +236,12 @@ All A-Z codes done on LeetCode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,6 +249,7 @@ All A-Z codes done on LeetCode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Divide and Conquer
 |  |
 | ------- |
