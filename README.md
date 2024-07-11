@@ -163,6 +163,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0520-detect-capital) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -267,6 +268,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Counting
 |  |
 | ------- |
