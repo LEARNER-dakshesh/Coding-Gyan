@@ -250,6 +250,7 @@ All A-Z codes done on LeetCode
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1731-even-odd-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -270,6 +271,7 @@ All A-Z codes done on LeetCode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1731-even-odd-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1731-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,6 +285,7 @@ All A-Z codes done on LeetCode
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1731-even-odd-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
