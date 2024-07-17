@@ -164,6 +164,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0318-maximum-product-of-word-lengths) |
 | [0520-detect-capital](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0520-detect-capital) |
+| [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
@@ -218,6 +219,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -330,4 +332,12 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0318-maximum-product-of-word-lengths) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
+## Trie
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
