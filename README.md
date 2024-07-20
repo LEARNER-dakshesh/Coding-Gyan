@@ -181,6 +181,7 @@ All A-Z codes done on LeetCode
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1803-average-waiting-time) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -209,6 +210,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -375,4 +377,8 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
