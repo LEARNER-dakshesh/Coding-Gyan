@@ -168,6 +168,7 @@ All A-Z codes done on LeetCode
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -246,6 +247,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
+| [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -344,6 +346,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
+| [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -381,4 +384,8 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
