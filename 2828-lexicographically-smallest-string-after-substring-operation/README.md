@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation">2828. Lexicographically Smallest String After Substring Operation</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code> consisting of lowercase English letters. Perform the following operation:</p>
+<h2><a href="https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation">Lexicographically Smallest String After Substring Operation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string <code>s</code> consisting of lowercase English letters. Perform the following operation:</p>
 
 <ul>
 	<li>Select any non-empty <span data-keyword="substring-nonempty">substring</span> then replace every letter of the substring with the preceding letter of the English alphabet. For example, &#39;b&#39; is converted to &#39;a&#39;, and &#39;a&#39; is converted to &#39;z&#39;.</li>
