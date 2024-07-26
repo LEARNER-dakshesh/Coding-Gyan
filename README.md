@@ -168,6 +168,7 @@ All A-Z codes done on LeetCode
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
@@ -217,6 +218,7 @@ All A-Z codes done on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
