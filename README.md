@@ -195,6 +195,7 @@ All A-Z codes done on LeetCode
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Dynamic Programming
 |  |
@@ -246,6 +247,7 @@ All A-Z codes done on LeetCode
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Two Pointers
 |  |
@@ -393,6 +395,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
