@@ -1,43 +1,50 @@
 class Solution {
 public:
-    int numTeams(vector<int>& rating) {
-    int ans = 0;
-    int cnt=0;
-    int n = rating.size();
-    
-    for(int x=0;x<n-2;x++)
-    {
-        for(int y=x+1;y<n-1;y++)
-         {
-            if(rating[x]<rating[y]) {
-                for(int z=y+1;z<n;z++) 
+    int numTeams(vector<int>& nums) {
+        int n=nums.size();
+       int ans=0;
+        for(int x=0;x<nums.size()-1;x++)
+        {
+            int smaller=0,greater=0;
+            for(int y=0;y<x;y++)
+            {
+                if(nums[y]<nums[x])
                 {
-                    if(rating[y]<rating[z])
-                     {
-                        ans++;
-                    }
+                    smaller++;
                 }
             }
-        }
-    }
-
-    for(int x=0;x<n-2;x++) 
-    {
-        for(int y=x+1;y<n-1;y++)
-         {
-            if(rating[x]>rating[y])
-             {
-                for(int z =y+1;z<n;z++) 
+            for(int z=x+1;z<nums.size();z++)
+            {
+                if(nums[z]>nums[x])
                 {
-                    if(rating[y]>rating[z]) {
-                        ans++;
-                    }
+                    greater++;
                 }
             }
+        
+        ans+=smaller*greater;
         }
+       cout<<ans;
+
+        for(int x=0;x<n-1;x++)
+        {
+           int smaller=0,greater=0;
+            for(int y=0;y<x;y++)
+            {
+                if(nums[y]>nums[x])
+                {
+                    greater++;
+                }
+            }
+            for(int z=x+1;z<n;z++)
+            {
+                if(nums[z]<nums[x])
+                {
+                    smaller++;
+                }
+            }
+            ans+=smaller*greater;
+        }
+
+        return ans;
     }
-
-    return ans;
-}
-
 };
