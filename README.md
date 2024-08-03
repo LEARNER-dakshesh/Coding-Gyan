@@ -168,6 +168,7 @@ All A-Z codes done on LeetCode
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 ## Array
@@ -207,6 +208,7 @@ All A-Z codes done on LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1511-count-number-of-teams) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -366,6 +368,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1803-average-waiting-time) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Brainteaser
 |  |
