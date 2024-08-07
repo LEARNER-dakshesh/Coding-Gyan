@@ -184,6 +184,7 @@ All A-Z codes done on LeetCode
 | [0318-maximum-product-of-word-lengths](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
 | [0948-sort-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1333-sort-the-jumbled-numbers) |
@@ -253,6 +254,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -419,6 +421,7 @@ All A-Z codes done on LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
