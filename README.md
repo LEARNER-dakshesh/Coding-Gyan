@@ -281,6 +281,7 @@ All A-Z codes done on LeetCode
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Heap (Priority Queue)
@@ -363,6 +364,7 @@ All A-Z codes done on LeetCode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1765-merge-in-between-linked-lists](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -455,4 +457,8 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1511-count-number-of-teams) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
