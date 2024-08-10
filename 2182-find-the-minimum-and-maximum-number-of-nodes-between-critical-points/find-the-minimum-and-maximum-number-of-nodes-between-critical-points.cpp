@@ -18,25 +18,20 @@ public:
         int curr=1;
         while(temp->next!=NULL)
         {
-            cout<<curr<<" ";
             curr++;
             if(temp->val > temp->next->val && temp->val>prev[prev.size()-1])
             {
-                cout<<"hi"<<endl;
                 pos.push_back(curr);
             }
             else if(temp->val<prev[prev.size()-1] && temp->val < temp->next->val)
             {
                 pos.push_back(curr);
-
             }
             prev.push_back(temp->val);
             temp=temp->next;
         }
-        cout<<endl;
-
+        
         sort(pos.begin(),pos.end());
-        cout<<pos.size();
         int mini=INT_MAX;
         for(int x=1;x<pos.size();x++)
         {
