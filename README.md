@@ -308,6 +308,7 @@ All A-Z codes done on LeetCode
 | [0764-n-ary-tree-level-order-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0832-binary-tree-pruning](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -324,6 +325,7 @@ All A-Z codes done on LeetCode
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -332,6 +334,7 @@ All A-Z codes done on LeetCode
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1731-even-odd-tree) |
 ## Binary Tree
 |  |
@@ -348,6 +351,7 @@ All A-Z codes done on LeetCode
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
@@ -362,6 +366,7 @@ All A-Z codes done on LeetCode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
