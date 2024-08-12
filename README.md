@@ -274,6 +274,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Math
 |  |
@@ -372,6 +373,7 @@ All A-Z codes done on LeetCode
 | [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
