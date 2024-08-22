@@ -180,6 +180,7 @@ All A-Z codes done on LeetCode
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 | [0275-h-index-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0275-h-index-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -331,6 +332,7 @@ All A-Z codes done on LeetCode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0832-binary-tree-pruning) |
@@ -341,6 +343,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -457,6 +460,7 @@ All A-Z codes done on LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Game Theory
 |  |
@@ -486,4 +490,8 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0789-kth-largest-element-in-a-stream) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
