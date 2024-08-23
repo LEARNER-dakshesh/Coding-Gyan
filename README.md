@@ -335,6 +335,7 @@ All A-Z codes done on LeetCode
 | [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0813-all-paths-from-source-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
@@ -347,6 +348,7 @@ All A-Z codes done on LeetCode
 | [0513-find-bottom-left-tree-value](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0813-all-paths-from-source-to-target) |
 | [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1731-even-odd-tree) |
 ## Binary Tree
@@ -440,6 +442,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0113-path-sum-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0813-all-paths-from-source-to-target) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -494,4 +497,8 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
