@@ -1,6 +1,6 @@
 class Solution {
 public:
-int dfs(  unordered_map<int,vector<int>>adj, vector<int>& quiet,vector<int>&ans,int node)
+int dfs(unordered_map<int,vector<int>>adj, vector<int>& quiet,vector<int>&ans,int node)
 {
     int store_node=node;
     for(auto x: adj[node])
