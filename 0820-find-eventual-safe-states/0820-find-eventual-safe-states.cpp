@@ -13,7 +13,6 @@ bool checkCycle(vector<vector<int>>& graph, int u, vector<bool>&visited,vector<b
             {
                 return true;
             }
-           
         } 
         else if(inRecur[v]==true)
             {
