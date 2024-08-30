@@ -207,6 +207,7 @@ All A-Z codes done on LeetCode
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -274,6 +275,7 @@ All A-Z codes done on LeetCode
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -466,12 +468,14 @@ All A-Z codes done on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Matrix
 |  |
 | ------- |
