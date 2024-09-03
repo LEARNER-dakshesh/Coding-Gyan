@@ -163,6 +163,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0008-string-to-integer-atoi) |
+| [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0318-maximum-product-of-word-lengths) |
 | [0520-detect-capital](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0520-detect-capital) |
 | [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
@@ -181,6 +182,7 @@ All A-Z codes done on LeetCode
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 | [0275-h-index-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0275-h-index-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0318-maximum-product-of-word-lengths) |
@@ -240,6 +242,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0624-maximum-distance-in-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -252,6 +255,7 @@ All A-Z codes done on LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0719-find-k-th-smallest-pair-distance) |
