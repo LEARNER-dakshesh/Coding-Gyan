@@ -21,12 +21,12 @@ public:
             
             num = num*10+dig;
             if (num > INT_MAX) {
-                return flag ? INT_MIN : INT_MAX;
+                return flag ? INT_MIN:INT_MAX;
             }
 
             i++;
         }
-        
+
         return flag ? -num : num;
     }
 };
