@@ -405,6 +405,7 @@ All A-Z codes done on LeetCode
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0445-add-two-numbers-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
