@@ -2,37 +2,36 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
 
-        vector<int>v;
-        v.push_back(nums[0]);
+      
         int cnt=1;
         int prev=nums[0];
+        int i=1;
+        int nsize=1;
 
         for(int x=1;x<nums.size();x++)
         {
-            if(nums[x]==prev && cnt<2)
+            if(prev==nums[x] && cnt<2)
             {
                 cnt++;
-                v.push_back(nums[x]);
+                nums[i]=nums[x];
+                i++;
+                nsize++;
             }
-            else if(nums[x]==prev && cnt==2)
+            else if(prev==nums[x] && cnt>=2)
             {
                 continue;
             }
-            else if(nums[x]!=prev)
+            else if(prev!=nums[x])
             {
-                cnt=1;
+                nums[i]=nums[x];
                 prev=nums[x];
-                v.push_back(nums[x]);
+                i++;
+                cnt=1;
+                nsize++;
+
             }
         }
-        int size=v.size();
-        nums.clear();
-        nums=v;
         
-        
-        return size;
-
-
-
+        return nsize;
     }
 };
