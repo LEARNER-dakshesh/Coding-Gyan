@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves">1346. Maximize the Topmost Element After K Moves</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> representing the contents of a <b>pile</b>, where <code>nums[0]</code> is the topmost element of the pile.</p>
+<h2><a href="https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves">Maximize the Topmost Element After K Moves</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> representing the contents of a <b>pile</b>, where <code>nums[0]</code> is the topmost element of the pile.</p>
 
 <p>In one move, you can perform <strong>either</strong> of the following:</p>
 
