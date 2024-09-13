@@ -203,6 +203,7 @@ All A-Z codes done on LeetCode
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1803-average-waiting-time) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -315,6 +316,7 @@ All A-Z codes done on LeetCode
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
@@ -507,6 +509,7 @@ All A-Z codes done on LeetCode
 | [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1435-xor-queries-of-a-subarray) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
