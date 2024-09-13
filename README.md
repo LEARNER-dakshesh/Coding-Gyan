@@ -196,6 +196,7 @@ All A-Z codes done on LeetCode
 | [0948-sort-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1333-sort-the-jumbled-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1333-sort-the-jumbled-numbers) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -251,6 +252,7 @@ All A-Z codes done on LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0624-maximum-distance-in-arrays) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
