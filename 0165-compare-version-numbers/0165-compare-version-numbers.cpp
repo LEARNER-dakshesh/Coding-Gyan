@@ -18,7 +18,7 @@ int compareVersion(string version1, string version2) {
     vector<int> v2 = splitVersion(version2);
     
     int len = max(v1.size(), v2.size());
-    for (int i = 0; i < len; ++i) {
+    for (int i=0;i<len;i++) {
         int num1 = i < v1.size() ? v1[i] : 0; 
         int num2 = i < v2.size() ? v2[i] : 0;
         
