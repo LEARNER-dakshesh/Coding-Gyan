@@ -219,6 +219,7 @@ All A-Z codes done on LeetCode
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -248,6 +249,7 @@ All A-Z codes done on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Greedy
@@ -281,6 +283,7 @@ All A-Z codes done on LeetCode
 | [2117-find-original-array-from-doubled-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2117-find-original-array-from-doubled-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -519,6 +522,7 @@ All A-Z codes done on LeetCode
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Matrix
 |  |
