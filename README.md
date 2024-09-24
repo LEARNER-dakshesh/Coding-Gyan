@@ -599,4 +599,8 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+## Database
+|  |
+| ------- |
+| [1292-immediate-food-delivery-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1292-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
