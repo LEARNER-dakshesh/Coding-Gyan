@@ -603,6 +603,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0180-consecutive-numbers) |
+| [1278-product-price-at-a-given-date](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
