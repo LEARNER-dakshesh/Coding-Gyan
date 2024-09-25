@@ -602,6 +602,7 @@ All A-Z codes done on LeetCode
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0180-consecutive-numbers) |
 | [1292-immediate-food-delivery-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
