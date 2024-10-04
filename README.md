@@ -223,6 +223,7 @@ All A-Z codes done on LeetCode
 | [2448-count-number-of-bad-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2448-count-number-of-bad-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -293,6 +294,7 @@ All A-Z codes done on LeetCode
 | [2117-find-original-array-from-doubled-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -315,6 +317,7 @@ All A-Z codes done on LeetCode
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2448-count-number-of-bad-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2448-count-number-of-bad-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -332,6 +335,7 @@ All A-Z codes done on LeetCode
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Math
 |  |
