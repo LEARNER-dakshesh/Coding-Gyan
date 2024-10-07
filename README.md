@@ -173,6 +173,7 @@ All A-Z codes done on LeetCode
 | [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
@@ -243,6 +244,7 @@ All A-Z codes done on LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -472,6 +474,7 @@ All A-Z codes done on LeetCode
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0445-add-two-numbers-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Counting
 |  |
