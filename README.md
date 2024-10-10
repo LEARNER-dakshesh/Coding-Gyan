@@ -229,6 +229,7 @@ All A-Z codes done on LeetCode
 | [2402-maximum-xor-after-operations](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2402-maximum-xor-after-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2448-count-number-of-bad-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -252,6 +253,7 @@ All A-Z codes done on LeetCode
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +267,7 @@ All A-Z codes done on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
+| [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -284,6 +287,7 @@ All A-Z codes done on LeetCode
 | [2117-find-original-array-from-doubled-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -572,6 +576,7 @@ All A-Z codes done on LeetCode
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Matrix
