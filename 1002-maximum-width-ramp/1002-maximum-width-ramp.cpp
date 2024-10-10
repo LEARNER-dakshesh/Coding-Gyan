@@ -8,7 +8,6 @@ public:
 
       for(int x=1;x<nums.size();x++)
       {
-
         if(nums[x]<store)
         {
             store=nums[x];
