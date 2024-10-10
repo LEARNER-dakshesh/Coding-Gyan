@@ -201,6 +201,7 @@ All A-Z codes done on LeetCode
 | [0719-find-k-th-smallest-pair-distance](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
 | [0948-sort-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1333-sort-the-jumbled-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1333-sort-the-jumbled-numbers) |
@@ -479,6 +480,7 @@ All A-Z codes done on LeetCode
 | [0145-binary-tree-postorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0445-add-two-numbers-ii) |
+| [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -634,6 +636,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
+| [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Database
 |  |
