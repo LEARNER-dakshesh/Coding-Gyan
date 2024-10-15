@@ -180,6 +180,7 @@ All A-Z codes done on LeetCode
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [3195-separate-black-and-white-balls](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3462-vowels-game-in-a-string) |
 ## Array
@@ -298,6 +299,7 @@ All A-Z codes done on LeetCode
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3195-separate-black-and-white-balls](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -365,6 +367,7 @@ All A-Z codes done on LeetCode
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3195-separate-black-and-white-balls](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
