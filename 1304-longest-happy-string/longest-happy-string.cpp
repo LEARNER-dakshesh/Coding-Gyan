@@ -33,24 +33,23 @@ public:
                 pq.push({occL, curL});
             }
         }
-        else{  
+        else
+        {  
             if(pq.size() == 0){
                 break;
             }
-
             char curS = pq.top().second;
             int occS = pq.top().first;
             pq.pop();
 
             ans += curS;
             occS--;
-            if(occS > 0){
+            if(occS > 0)
+            {
                 pq.push({occS, curS});
             }
             pq.push({occL, curL});            
-
         }
-        
     }
      return ans;
     }
