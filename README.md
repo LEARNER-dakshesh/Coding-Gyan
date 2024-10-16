@@ -173,6 +173,7 @@ All A-Z codes done on LeetCode
 | [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1304-longest-happy-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -285,6 +286,7 @@ All A-Z codes done on LeetCode
 | [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0624-maximum-distance-in-arrays) |
+| [1304-longest-happy-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -389,6 +391,7 @@ All A-Z codes done on LeetCode
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1304-longest-happy-string) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
