@@ -192,6 +192,7 @@ All A-Z codes done on LeetCode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
@@ -283,6 +284,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0624-maximum-distance-in-arrays) |
