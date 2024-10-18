@@ -162,6 +162,7 @@ All A-Z codes done on LeetCode
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0165-compare-version-numbers) |
