@@ -338,6 +338,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0202-happy-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0567-permutation-in-string) |
@@ -369,6 +370,7 @@ All A-Z codes done on LeetCode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -383,6 +385,7 @@ All A-Z codes done on LeetCode
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0445-add-two-numbers-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0670-maximum-swap) |
