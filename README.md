@@ -181,6 +181,7 @@ All A-Z codes done on LeetCode
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2580-circular-sentence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2580-circular-sentence) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
