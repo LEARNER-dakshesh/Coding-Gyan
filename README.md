@@ -183,6 +183,7 @@ All A-Z codes done on LeetCode
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2580-circular-sentence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2580-circular-sentence) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3451-string-compression-iii) |
