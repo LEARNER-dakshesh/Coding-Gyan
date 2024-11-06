@@ -258,6 +258,7 @@ All A-Z codes done on LeetCode
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -341,6 +342,7 @@ All A-Z codes done on LeetCode
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -581,6 +583,7 @@ All A-Z codes done on LeetCode
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2402-maximum-xor-after-operations](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2402-maximum-xor-after-operations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
 | ------- |
