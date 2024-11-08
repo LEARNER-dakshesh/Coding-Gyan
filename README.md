@@ -232,6 +232,7 @@ All A-Z codes done on LeetCode
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1803-average-waiting-time) |
+| [1940-maximum-xor-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2117-find-original-array-from-doubled-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2117-find-original-array-from-doubled-array) |
@@ -583,6 +584,7 @@ All A-Z codes done on LeetCode
 | [0318-maximum-product-of-word-lengths](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0318-maximum-product-of-word-lengths) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1940-maximum-xor-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-maximum-xor-after-operations](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2402-maximum-xor-after-operations) |
@@ -627,6 +629,7 @@ All A-Z codes done on LeetCode
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1694-make-sum-divisible-by-p](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1694-make-sum-divisible-by-p) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
