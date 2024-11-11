@@ -162,6 +162,7 @@ All A-Z codes done on LeetCode
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -348,6 +349,7 @@ All A-Z codes done on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -615,6 +617,7 @@ All A-Z codes done on LeetCode
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
