@@ -256,6 +256,7 @@ All A-Z codes done on LeetCode
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
@@ -642,6 +643,7 @@ All A-Z codes done on LeetCode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Matrix
