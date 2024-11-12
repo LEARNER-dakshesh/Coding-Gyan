@@ -241,6 +241,7 @@ All A-Z codes done on LeetCode
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -294,6 +295,7 @@ All A-Z codes done on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -340,6 +342,7 @@ All A-Z codes done on LeetCode
 | [2117-find-original-array-from-doubled-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
