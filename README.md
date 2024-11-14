@@ -242,6 +242,7 @@ All A-Z codes done on LeetCode
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -298,6 +299,7 @@ All A-Z codes done on LeetCode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2530-minimize-maximum-of-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2699-count-the-number-of-fair-pairs) |
