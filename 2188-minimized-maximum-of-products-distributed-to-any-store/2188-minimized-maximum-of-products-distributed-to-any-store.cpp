@@ -23,7 +23,7 @@ bool check(vector<int>quantities,int mid,int n)
     int minimizedMaximum(int n, vector<int>& quantities) {
         int low=1;
         int high=*max_element(quantities.begin(),quantities.end());
-     int ans=INT_MAX;
+        int ans=INT_MAX;
         while(low<=high)
         { 
             int mid=(low+high)/2;
