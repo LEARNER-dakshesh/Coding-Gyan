@@ -15,7 +15,7 @@ public:
        int ans=0;
        for(int x=0;x<n;x++)
        {
-          if(pre[x]>0LL)
+          if(pre[x]>0)
           {
             ans++;
           }
