@@ -217,6 +217,7 @@ All A-Z codes done on LeetCode
 | [0624-maximum-distance-in-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -296,6 +297,7 @@ All A-Z codes done on LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -433,6 +435,7 @@ All A-Z codes done on LeetCode
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1304-longest-happy-string) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -635,6 +638,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0567-permutation-in-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -644,6 +648,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -743,4 +748,12 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2573-remove-nodes-from-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
