@@ -212,6 +212,7 @@ All A-Z codes done on LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0419-battleships-in-a-board](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0419-battleships-in-a-board) |
+| [0447-number-of-boomerangs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0447-number-of-boomerangs) |
 | [0503-next-greater-element-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0624-maximum-distance-in-arrays) |
@@ -369,6 +370,7 @@ All A-Z codes done on LeetCode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0447-number-of-boomerangs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0447-number-of-boomerangs) |
 | [0525-contiguous-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
@@ -418,6 +420,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0202-happy-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0447-number-of-boomerangs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0670-maximum-swap) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
