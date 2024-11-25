@@ -177,6 +177,7 @@ All A-Z codes done on LeetCode
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1304-longest-happy-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -229,6 +230,7 @@ All A-Z codes done on LeetCode
 | [1435-xor-queries-of-a-subarray](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -381,6 +383,7 @@ All A-Z codes done on LeetCode
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1694-make-sum-divisible-by-p) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1890-sum-of-beauty-of-all-substrings) |
