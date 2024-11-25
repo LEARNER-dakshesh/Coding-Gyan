@@ -243,6 +243,7 @@ All A-Z codes done on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-maximum-matrix-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -329,6 +330,7 @@ All A-Z codes done on LeetCode
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2089-maximum-matrix-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -682,6 +684,7 @@ All A-Z codes done on LeetCode
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2089-maximum-matrix-sum) |
 ## Game Theory
 |  |
 | ------- |
