@@ -193,6 +193,7 @@ All A-Z codes done on LeetCode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0039-combination-sum) |
 | [0059-spiral-matrix-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0059-spiral-matrix-ii) |
@@ -372,6 +373,7 @@ All A-Z codes done on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0202-happy-number) |
