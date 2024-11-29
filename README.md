@@ -197,6 +197,7 @@ All A-Z codes done on LeetCode
 | [0001-two-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -598,6 +599,7 @@ All A-Z codes done on LeetCode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0059-spiral-matrix-ii) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1803-average-waiting-time](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1803-average-waiting-time) |
@@ -682,6 +684,7 @@ All A-Z codes done on LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0419-battleships-in-a-board) |
