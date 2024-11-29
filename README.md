@@ -165,6 +165,7 @@ All A-Z codes done on LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
@@ -562,6 +563,7 @@ All A-Z codes done on LeetCode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
