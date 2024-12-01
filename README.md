@@ -200,6 +200,7 @@ All A-Z codes done on LeetCode
 | [0054-spiral-matrix](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -565,6 +566,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
@@ -750,6 +752,7 @@ All A-Z codes done on LeetCode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
