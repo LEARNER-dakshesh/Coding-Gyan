@@ -389,6 +389,7 @@ All A-Z codes done on LeetCode
 | [0567-permutation-in-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0692-top-k-frequent-words) |
+| [0931-maximum-frequency-stack](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0931-maximum-frequency-stack) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -577,6 +578,7 @@ All A-Z codes done on LeetCode
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0503-next-greater-element-ii) |
+| [0931-maximum-frequency-stack](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0931-maximum-frequency-stack) |
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -642,6 +644,7 @@ All A-Z codes done on LeetCode
 | ------- |
 | [0677-map-sum-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0931-maximum-frequency-stack](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0931-maximum-frequency-stack) |
 ## Trie
 |  |
 | ------- |
@@ -754,6 +757,7 @@ All A-Z codes done on LeetCode
 ## Ordered Set
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0931-maximum-frequency-stack) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Monotonic Stack
 |  |
