@@ -564,6 +564,7 @@ All A-Z codes done on LeetCode
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -790,6 +791,7 @@ All A-Z codes done on LeetCode
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0024-swap-nodes-in-pairs) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
 |  |
