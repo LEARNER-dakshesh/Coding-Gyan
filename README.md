@@ -262,6 +262,7 @@ All A-Z codes done on LeetCode
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2388-replace-elements-in-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2388-replace-elements-in-an-array) |
 | [2402-maximum-xor-after-operations](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2402-maximum-xor-after-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2448-count-number-of-bad-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -408,6 +409,7 @@ All A-Z codes done on LeetCode
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2388-replace-elements-in-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2388-replace-elements-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -628,6 +630,7 @@ All A-Z codes done on LeetCode
 | [1803-average-waiting-time](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2232-adding-spaces-to-a-string) |
+| [2388-replace-elements-in-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2388-replace-elements-in-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
