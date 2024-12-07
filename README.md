@@ -245,6 +245,7 @@ All A-Z codes done on LeetCode
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1803-average-waiting-time) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1972-rotating-the-box) |
@@ -314,6 +315,7 @@ All A-Z codes done on LeetCode
 | [0719-find-k-th-smallest-pair-distance](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2118-maximum-earnings-from-taxi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2118-maximum-earnings-from-taxi) |
