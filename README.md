@@ -167,6 +167,7 @@ All A-Z codes done on LeetCode
 | [0008-string-to-integer-atoi](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0032-longest-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0316-remove-duplicate-letters) |
@@ -292,6 +293,7 @@ All A-Z codes done on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -592,6 +594,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0145-binary-tree-postorder-traversal) |
