@@ -287,6 +287,7 @@ All A-Z codes done on LeetCode
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3291-find-if-array-can-be-sorted) |
+| [3427-special-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -331,6 +332,7 @@ All A-Z codes done on LeetCode
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3427-special-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -717,6 +719,7 @@ All A-Z codes done on LeetCode
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3427-special-array-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/3427-special-array-ii) |
 ## Matrix
 |  |
 | ------- |
