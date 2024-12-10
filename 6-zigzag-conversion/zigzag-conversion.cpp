@@ -1,63 +1,33 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        // map<char,int>m;
-        // bool incr=true;
-        // int pos=0;
-        // for(char ch:s)
-        // {
-        //     if(pos==numRows)
-        //     {
-        //         incr=false;
-        //     }
-        //     if(pos==1)
-        //     {
-        //         incr=true;
-        //     }
-        //     if(incr)
-        //     {
-        //         pos++;
-        //     }
-        //     else
-        //     {
-        //         pos--;
-        //     }
-        //     if(m.find(pos)==m.end())
-        //     {
-        //         m.insert({ch,pos});
-        //     }
-        //     if(m.count(pos)==0)
-        //     {
-        //       m.insert({ch,pos});  
-        //     }
-        // }
-        // string w="";
-        // for(auto x:m)
-        // {
-        //     w+=x.first;
-        // }
-        // return w;
-        if(numRows <= 1) return s;
+        int n=s.size();
+        string ans[numRows];
 
-    vector<string>v(numRows, ""); 
-
-    int j = 0, dir = -1;
-
-    for(int i = 0; i < s.length(); i++)
-    {
-        if(j == numRows - 1 || j == 0) dir *= (-1); 
-		 
-        v[j] += s[i];
-
-        if(dir == 1) j++;
-
-        else j--;
-    }
-    string res;
-
-    for(auto &it : v) res += it; 
-
-    return res;
-
+        for(int x=0;x<numRows;x++)
+        {
+            ans[x]="";
+        }
+        int i=0;
+        while(i<s.size())
+        {
+            for(int index=0;index<numRows && i<n;index++)
+            {
+                // cout<<index<<s[i]<<endl;
+                ans[index]+=s[i];
+                i++;
+            }
+            for(int index=numRows-2;index>0 && i<n;index--)
+            {
+                ans[index]+=s[i];
+                i++;
+            }
+        }
+        string res="";
+        for(string str:ans)
+        {
+            res+=str;
+        }
+        return res;
     }
 };
