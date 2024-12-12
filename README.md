@@ -278,6 +278,7 @@ All A-Z codes done on LeetCode
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -481,6 +482,7 @@ All A-Z codes done on LeetCode
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Tree
 |  |
@@ -643,6 +645,7 @@ All A-Z codes done on LeetCode
 | [2388-replace-elements-in-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2388-replace-elements-in-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Brainteaser
 |  |
