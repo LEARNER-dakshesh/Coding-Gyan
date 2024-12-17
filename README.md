@@ -807,6 +807,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0180-consecutive-numbers) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1278-product-price-at-a-given-date](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1317-monthly-transactions-i) |
