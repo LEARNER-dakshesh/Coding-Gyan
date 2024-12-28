@@ -233,6 +233,7 @@ All A-Z codes done on LeetCode
 | [1002-maximum-width-ramp](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1063-best-sightseeing-pair](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1333-sort-the-jumbled-numbers](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1333-sort-the-jumbled-numbers) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
@@ -304,6 +305,7 @@ All A-Z codes done on LeetCode
 | [0198-house-robber](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0322-coin-change) |
+| [1063-best-sightseeing-pair](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1063-best-sightseeing-pair) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1756-minimum-deletions-to-make-string-balanced) |
