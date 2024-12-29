@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/broken-calculator">1033. Broken Calculator</a></h2><h3>Medium</h3><hr><p>There is a broken calculator that has the integer <code>startValue</code> on its display initially. In one operation, you can:</p>
+<h2><a href="https://leetcode.com/problems/broken-calculator">Broken Calculator</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There is a broken calculator that has the integer <code>startValue</code> on its display initially. In one operation, you can:</p>
 
 <ul>
 	<li>multiply the number on display by <code>2</code>, or</li>
