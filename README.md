@@ -348,6 +348,7 @@ All A-Z codes done on LeetCode
 | [0402-remove-k-digits](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0670-maximum-swap) |
+| [1033-broken-calculator](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1033-broken-calculator) |
 | [1304-longest-happy-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -465,6 +466,7 @@ All A-Z codes done on LeetCode
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0670-maximum-swap) |
 | [0805-escape-the-ghosts](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0805-escape-the-ghosts) |
+| [1033-broken-calculator](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1033-broken-calculator) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1362-airplane-seat-assignment-probability) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
