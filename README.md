@@ -188,6 +188,7 @@ All A-Z codes done on LeetCode
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2232-adding-spaces-to-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2580-circular-sentence](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -267,6 +268,7 @@ All A-Z codes done on LeetCode
 | [2232-adding-spaces-to-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -827,6 +829,7 @@ All A-Z codes done on LeetCode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Recursion
 |  |
 | ------- |
