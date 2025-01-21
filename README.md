@@ -289,6 +289,7 @@ All A-Z codes done on LeetCode
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -440,6 +441,7 @@ All A-Z codes done on LeetCode
 | [2448-count-number-of-bad-pairs](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
@@ -764,6 +766,7 @@ All A-Z codes done on LeetCode
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2089-maximum-matrix-sum) |
+| [2685-first-completely-painted-row-or-column](https://github.com/LEARNER-dakshesh/Coding-Gyan/tree/master/2685-first-completely-painted-row-or-column) |
 ## Game Theory
 |  |
 | ------- |
